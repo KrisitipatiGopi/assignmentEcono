@@ -1,4 +1,5 @@
 {
+  "homepage": "http://KrisitipatiGopi.github.io/assignmentEcono",
   "name": "React Dashboard",
   "version": "1.0.0",
   "description": "Admin Dashboard template built with create-react-app, tailwind css and daisy UI. Template uses rich tailwind css utility classes and have components of daisy UI, also have redux toolkit implemented for store management.",
@@ -18,6 +19,7 @@
     "capitalize-the-first-letter": "^1.0.8",
     "chart.js": "^4.0.1",
     "dayjs": "^1.11.7",
+    "gh-pages": "^6.1.1",
     "moment": "^2.29.4",
     "react": "^18.2.0",
     "react-chartjs-2": "^5.0.1",
